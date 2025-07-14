@@ -8,6 +8,9 @@ A Power Rangers Mega-Team production, part headgear! It is painted blue, has bui
 ![7C9C49BB-3304-4250-9692-89F9A7CE6851](https://github.com/user-attachments/assets/0a3174f7-a606-4b4e-97a8-f848f6fcb852)
 ![0D02A13F-B368-44C0-90AE-17DDE8D14C88](https://github.com/user-attachments/assets/a6b0cee0-a4b4-49d6-a432-39a5b007f14e)
 
+# VIDEO
+https://youtube.com/shorts/V8mu22ShipQ?si=QYoYf-bTQ0G7oBG5
+
 # BOM
 - 1x 320x240 TFT Screen
 - 1x Undercity Orpheus Pico (Raspberry Pi Pico)
